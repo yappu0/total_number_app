@@ -106,6 +106,8 @@ GEM
       irb (~> 1.10)
       reline (>= 0.3.8)
     drb (2.2.1)
+    enumerize (2.8.1)
+      activesupport (>= 3.2)
     erubi (1.13.0)
     erubis (2.7.0)
     globalid (1.2.1)
@@ -321,6 +323,7 @@ DEPENDENCIES
   bootsnap
   cssbundling-rails
   debug
+  enumerize
   haml-lint
   haml-rails
   html2haml

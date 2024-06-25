@@ -6,6 +6,7 @@ gem 'rails', '~> 7.1.3', '>= 7.1.3.4'
 
 gem 'bootsnap', require: false
 gem 'cssbundling-rails'
+gem 'enumerize'
 gem 'haml-rails'
 gem 'jbuilder'
 gem 'jsbundling-rails'
